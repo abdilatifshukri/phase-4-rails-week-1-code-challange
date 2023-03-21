@@ -3,6 +3,9 @@
 ## Description
 This is a 'mini' Rails application that implements associations. It is an API for tracking pizza restaurants that allows users to create, read, update, and delete restaurants, pizzas, and restaurant pizzas. It features three resources and adheres to certain guidelines such as implementing specific routes and returning JSON data in a specific format.
 
+## MY API REPO LINK 
+   https://github.com/abdilatifshukri/phase-4-rails-week-1-code-challange
+   
 ## Getting Started
 To get started, please follow the instructions below:
 
